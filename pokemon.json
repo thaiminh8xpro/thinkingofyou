@@ -1,0 +1,11 @@
+{
+    "type": "pokemon",
+    "message": {
+        "encounter_id": {{encounter id}},
+        "spawnpoint_id": {{spawnpoint id}},
+        "pokemon_id": {{pokemon id}},
+        "latitude": {{spawn latitude}},
+        "longitude": {{spawn longitude}},
+        "disappear_time": {{disappear timestamp}}
+    }
+}
